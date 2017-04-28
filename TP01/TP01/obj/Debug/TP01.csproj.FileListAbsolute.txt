@@ -1,0 +1,10 @@
+F:\Progrm II\TP01\TP01\bin\Debug\TP01.exe
+F:\Progrm II\TP01\TP01\bin\Debug\TP01.pdb
+F:\Progrm II\TP01\TP01\obj\Debug\TP01.csprojResolveAssemblyReference.cache
+F:\Progrm II\TP01\TP01\obj\Debug\TP01.Form1.resources
+F:\Progrm II\TP01\TP01\obj\Debug\TP01.Properties.Resources.resources
+F:\Progrm II\TP01\TP01\obj\Debug\TP01.csproj.GenerateResource.Cache
+F:\Progrm II\TP01\TP01\obj\Debug\TP01.exe
+F:\Progrm II\TP01\TP01\obj\Debug\TP01.pdb
+E:\Progrm II\TP01\TP01\obj\Debug\TP01.exe
+E:\Progrm II\TP01\TP01\obj\Debug\TP01.pdb
